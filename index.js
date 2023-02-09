@@ -58,6 +58,3 @@ let resultadoOR2 = sueldoB === 7500 || sueldoC === 8000;
 console.log(resultadoOR2);
 let resultadoOR3 = sueldoF === 3500 || sueldoE === 13000;
 console.log(resultadoOR3);
-
-let resultadoAND4 = sueldoA > 50;
-console.log("El sueldoA es PAR y es mayor que 50 " + EsMayorQue);
